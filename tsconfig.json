@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "aryanet-ng2-core": [
+        "dist/aryanet-ng2-core"
+      ],
+      "aryanet-ng2-core/*": [
+        "dist/aryanet-ng2-core/*"
+      ]
+    }
   }
 }
